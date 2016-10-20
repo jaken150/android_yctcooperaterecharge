@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">羊城通合作商户充值</string>
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+</resources>
